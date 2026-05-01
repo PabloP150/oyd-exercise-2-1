@@ -1,6 +1,6 @@
 # oyd-exercise-2-1
 
-Kubernetes manifests for a small Node.js web application that reads three environment variables (`APP_ENV`, `APP_NAME`, `LOG_LEVEL`) from a ConfigMap and displays them in the browser.
+Manifiestos de Kubernetes para una pequeña aplicación web en Node.js que lee tres variables de entorno (`APP_ENV`, `APP_NAME`, `LOG_LEVEL`) desde un ConfigMap y las muestra en el navegador.
 
 ## Evidence
 
